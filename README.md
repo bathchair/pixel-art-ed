@@ -8,13 +8,13 @@ This project allows me to refamiliarize myself with good Python practices and ex
 Work in progress!
 
 # Progress
-- Basic grid
-- Bare bones of control panel
+- Basic pixel art functionality
 
 # Goals
 - Title screen with user-inputted conditions
 - Variety of colors; general color selector
 - More user-friendly interface
+- Webkinz switcherooz game?
 
 # Credits
 - Author: Dea Harjianto
